@@ -1,6 +1,6 @@
 {
   "name": "apps-script-magento",
-  "version": "0.3.0",
+  "version": "0.0.1",
   "description": "A Google Apps Add-on for Google Docs Spreadsheets that loads items from the API into a sheet.",
   "main": "src/index.js",
   "scripts": {
