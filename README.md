@@ -1,5 +1,6 @@
 # apps-script-magento
-Use Magento REST API in your Google Sheet/Document via Google Apps Script
+A Google Apps Add-on for Google Docs Spreadsheets that loads products via Magento REST API into a sheet. 
+After editing, you can sync changes back to Magento server
 
 
 If you are getting the error "The state token is invalid or has expired. Please try again."
